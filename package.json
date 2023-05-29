@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "lint-staged": {
-    "src/**/*.ts  ": "npm run lint-pretter"
+    "src/**/*.ts": "npm run lint-pretter"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
